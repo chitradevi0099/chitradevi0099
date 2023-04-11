@@ -1,3 +1,4 @@
+![Logo](https://github.com/chitradevi0099/Chitradevi.S/blob/main/Untitled%20design.png)
 <h1 align="center">Hello Friends!! 👋, I'm Chitra Devi</h1>
 <h3 align="center">A passionate Frontend developer | UI/UX</h3>
 
